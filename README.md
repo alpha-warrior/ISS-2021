@@ -3,6 +3,8 @@
 
 ### Changes Made
 
-These are the changes made to the repository.
+Change #1: These are the changes made to the repository.
+<br>
+Change #2: A second change has been made.
 
 
