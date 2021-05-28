@@ -4,5 +4,5 @@
 
 ## Siddharth Mavani
 * Course: ISS
-* TA: Jashn Arora
+* TA: Jashn Arora, Akshit Garg
 * Group: Green
