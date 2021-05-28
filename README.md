@@ -7,3 +7,6 @@ I don't like coding
 I don't like to study
 i am doing timepass
 Chaging README
+ This is Intro to Software Sytems.
+ This is ISS.
+ This is a doubt.
