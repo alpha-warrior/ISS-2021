@@ -3,4 +3,5 @@
 - This is Lab-1.
 
 [Freyam Mehta]
-Hey, I love Git! :yelow_heart:
+
+Hey, I love Git! :yellow_heart:
