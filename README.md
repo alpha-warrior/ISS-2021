@@ -7,4 +7,3 @@ I don't like coding
 I don't like to study
 i am doing timepass
 Chaging README
-
