@@ -6,6 +6,6 @@
 
 ### this change was made in command line
 =======
-### changes this is github GUI
+### changed this in github GUI
 
  
