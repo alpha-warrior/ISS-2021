@@ -5,3 +5,4 @@
 * This is a doubt.
 * This is a commit from local repository
 * This is second commit from local repository
+* This is a commit from git_hub GUI
