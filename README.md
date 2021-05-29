@@ -5,3 +5,4 @@
 * This is a doubt.
 
 - This a change made on local repo
+- This a change made on local repo to create a merge conflict.
